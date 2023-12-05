@@ -1,0 +1,1 @@
+sudo g++ -o server server.cpp -pthread
