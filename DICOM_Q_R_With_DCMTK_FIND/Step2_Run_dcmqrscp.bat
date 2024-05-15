@@ -1,0 +1,1 @@
+"..\dcmtk-3.6.8-win64-dynamic\bin\dcmqrscp.exe" -c dcmqrscp.cfg -d
