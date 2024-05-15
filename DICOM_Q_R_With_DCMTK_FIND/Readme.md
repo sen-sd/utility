@@ -4,8 +4,11 @@
    - This is used to setup testing PACS server and search DICOM details(C-Find ) with DCMTK tool
 
 2. **Prerequisites**:
-   - DCMTK - https://dicom.offis.de/en/dcmtk/dcmtk-tools/
-   - For Reference - https://github.com/DCMTK/dcmtk
+   - Ensure DCMTK is installed and accessible from your command line.
+      - DCMTK - https://dicom.offis.de/en/dcmtk/dcmtk-tools/
+      - For Reference - https://github.com/DCMTK/dcmtk
+   - Ensure PowerShell is installed on your system.
+   - Ensure the DICOM files and the necessary configuration files are in place.
 
 3. **Steps to Execute**:
    - 1. Execute Step1_Setup_DICOM_DATA.bat
