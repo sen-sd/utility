@@ -1,4 +1,4 @@
-### Get DICOM Q/R and get tags in CVS file`
+### Search and get each DICOM tag details from PACS and save tags into CVS file by using DCMTK tool(with tag data in UTF8 format)
 
 1. **Introduction**:
    - This is used to setup testing PACS server and search DICOM details(C-Find ) with DCMTK tool
